@@ -1,0 +1,13 @@
+{
+  "name": "pamderan-trialmodule",
+  "version": "0.1.0",
+  "author": "pamderan",
+  "summary": "trial module creating",
+  "license": "Apache-2.0",
+  "source": "https://github.com/pcpuppet/trialmodule.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
